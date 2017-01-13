@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdapterTutorial</string>
+    <array name="students">
+        <item>Inga</item>
+        <item>Andrey</item>
+        <item>Chung Bok Jin</item>
+        <item>Alex</item>
+    </array>
+</resources>
